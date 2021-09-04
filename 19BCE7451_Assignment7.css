@@ -1,0 +1,15 @@
+form > div{
+    padding-bottom: 10px;
+}
+
+input{
+    margin-left: 6em;
+}
+
+label{
+    position: absolute;
+}
+
+.error {
+        color: #FF0000;
+    }
